@@ -23,12 +23,10 @@ Json WebToken 0.11.5
 ----------
 
 Intellij Ultimate
-
+ ![321124](https://github.com/user-attachments/assets/05faaf32-c6b0-4af6-9b20-2a94d9b346af)
 MySql 8
 
 PostMan
-
-![3211212](https://github.com/user-attachments/assets/42df21be-159f-4431-8707-3f7a619f9b0a)
 
 
 
