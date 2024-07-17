@@ -26,7 +26,7 @@ Intellij Ultimate
 
 MySql 8
 
-VsCode
+VS Code
 
 PostMan
 
