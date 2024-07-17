@@ -31,3 +31,10 @@ VS Code
 PostMan
 
 ----------
+DB
+----------
+
+![스크린샷(3)](https://github.com/user-attachments/assets/3410445b-e4b8-430f-8072-21cf5a1e3112)
+
+----------
+
