@@ -3,6 +3,7 @@
 ----------
 Spring Boot 3.3.1
 Lombok
+
 Spring DevTools
 Spring Web
 Spring Security 6.3.1
